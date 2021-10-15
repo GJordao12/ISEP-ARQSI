@@ -1,0 +1,272 @@
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\appsettings.Development.json
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\appsettings.json
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\TodoApi.exe
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\TodoApi.deps.json
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.json
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.dev.json
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\TodoApi.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ref\TodoApi.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\TodoApi.pdb
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.xml
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\ref\TodoApi.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.pdb
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Humanizer.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Composition.Convention.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\data\3ano\1semestre\ARQSI\FirstProject\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\appsettings.json
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\TodoApi.exe
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\TodoApi.deps.json
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.json
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\TodoApi.runtimeconfig.dev.json
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\TodoApi.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ref\TodoApi.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\TodoApi.pdb
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.xml
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\ref\TodoApi.dll
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.pdb
+C:\Users\grtjo\Documents\ISEP Cadeiras\3º Ano\1º Semestre\ARQSI\PL\WebAPI\TodoApi\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
